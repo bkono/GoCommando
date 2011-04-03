@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="GoCommando">
+</Property><Property Name="Solution File" Value="C:\Users\Bryan\Code\lib\GoCommando\src\GoCommando.sln">
+</Property><Property Name="Date" Value="Sunday, April 03, 2011">
+</Property><Property Name="Time" Value="0:25 AM">
+</Property></Properties><Event ErrorLevel="0" Project="GoCommando" Source="GoCommando\GoCommando.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="GoCommando" Source="GoCommando\GoCommando.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="GoCommando.Tests" Source="GoCommando.Tests\GoCommando.Tests.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="GoCommando.Tests" Source="GoCommando.Tests\GoCommando.Tests.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="GoCommando.ConsoleApplication" Source="GoCommando.ConsoleApplication\GoCommando.ConsoleApplication.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="GoCommando.ConsoleApplication" Source="GoCommando.ConsoleApplication\GoCommando.ConsoleApplication.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="GoCommando.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="GoCommando.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="GoCommando" Source="GoCommando\GoCommando.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="GoCommando.Tests" Source="GoCommando.Tests\GoCommando.Tests.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="GoCommando.ConsoleApplication" Source="GoCommando.ConsoleApplication\GoCommando.ConsoleApplication.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
